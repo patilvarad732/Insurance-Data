@@ -104,8 +104,6 @@ Dashboard & Business Insights
 Recommendations
 ```
 
----
-
 ## 🧹 1. Data Cleaning
 
 Excel was used to prepare and standardize the source data.
@@ -224,6 +222,9 @@ Power BI was used to create interactive reporting with filters based on dimensio
 
 This allows users to interactively analyze business performance.
 
+Dashboard 
+
+
 ### Tableau
 
 Tableau was used for:
@@ -239,6 +240,7 @@ Excel was used for:
 * Pivot-based analysis
 * KPI summaries
 * Quick business reporting
+
 
 ---
 
